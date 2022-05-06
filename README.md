@@ -1,3 +1,4 @@
-# Primeiro Projeto Curso: Git e GitHub
 
-### Objetivo: Criar um repositório no GitHub
+# Curso Git e GitHub
+## 1º Projeto
+#### Objetivo: Criar um repositório no GitHub
